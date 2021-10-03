@@ -1,0 +1,45 @@
+Good evening, Joe (Our Client),
+
+ 
+
+Our company had a list of questions we would like to ask and would appreciate any answers you may share with us to better understand the database structure you are working towards.
+
+1) Could you please confirm the spelling for 'Caroline Coie Cuartet'. From the excel form you submitted it appears 'Coie' is misspelled in a different location as 'Cole'. 
+   We are assuming the correct spelling should be 'Cole', but we would like to confirm first before we make the final adjustment. This also brings question with her last name 
+   'Cuartet', was this potentially a misspelling for 'Quartet'?
+   
+2) We had a question regarding the 'SSN' column, but it does appear you have addressed this for us ahead of time.
+3) Are we meant to use the given address information? We ask because some of the contact addresses in the 'Groups' tab correspond to 'Customer' addresses in the 'Customer' tab.
+4) Should we know the purpose of the 'Status' column in the 'Group Member List' tab, or should we assume this is a source of dummy data to justify existence of the linking table?
+5) Darryl Mars has a salary listed at $50.00 and a commission rate of 0.01 percent. Are these accurate figures? Darryl has never booked an engagement in 20 years and wonder 
+   if his Agent record should instead be eliminated.
+6) We do not see any area codes added with any of the phone numbers - for a more professional approach to the data on file would you like to provide us with the line's 
+   owner area code?
+7) Regarding the performer 'Joe Rosales III', their last name would list as 'Rosales III', we recommend dropping the 'III' and have it simplified to 'Rosales'. Does this work?
+8) The Viescas family comes as a questionable approach. 'Carol Viescas' is listed as an agent and a customer. Her family member 'Caleb' is also an agent, and perhaps siblings(?) 
+   Suzanne, David and John Viescas are listed as performers. We would like better clarity on the data provided is accurate and should be used as provided.
+   
+Again, we would appreciate any or all the concerns addressed could be answered.
+We look forward to hearing from you soon,
+
+DRP Group 3 Data Builders, INC.
+
+--REPLY--
+
+Thank you DRP group 3,
+
+I’ll answer your questions below,
+
+1) Coie is Carol’s last name. You aren’t in Entertainment, so I don’t expect you to understand, but Carol’s group are the Triple C’s. Cuartet is spelled exactly how it should be spelled.
+2) I answered this
+3) Yes, starving artists sometimes work out of their home. Not everyone is Carol Burnett
+4) I don’t know what you mean by dummy data, status is how I determine if they are a full member or a part time member
+5) That’s my brother-in-law
+6) I think that is a good idea, put in their area codes. I’m sure you have some computer way of doing that.
+7) Joe comes from a long line of entertainers and is very proud of his pedigree. Why would you even suggest that? Should I shorten your name to “Mens”. That’s pretty offensive, 
+   but I won’t tell him. I would actually love his father, Joe Rosales II to come and perform for us.
+8) Yes, they are a large musical family. Carol uses are services and performs as well! She is a giver and a taker!
+ 
+I hope this helps. Looking forward to something exciting!
+
+-Joe
